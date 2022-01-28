@@ -1,4 +1,4 @@
-# AdGuard-s-Block-YouTube-Ads
+# AdGuard-Block-YouTube-Ads
 
 This file is part of AdGuard's Block YouTube Ads (https://github.com/AdguardTeam/BlockYouTubeAdsShortcut).
 Whith Arabic translation. It has been tested efficiently on the GNOME web browser (Epiphany) and Eolie.
