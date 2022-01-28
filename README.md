@@ -4,7 +4,7 @@ This file is part of AdGuard's Block YouTube Ads (https://github.com/AdguardTeam
 Whith Arabic translation. It has been tested efficiently on the GNOME web browser (Epiphany) and Eolie.
 
 
-هذا الملف هو جزء من  BlockYouTubeAdsShortcut من AdguardTeam مع إضافة الترجمة للغة العربية. تمت تجربته بكفاءة على متصفح جنوم وب (Epiphany) وEolie.
+هذا الملف هو جزء من  BlockYouTubeAdsShortcut من Adguard Team مع إضافة الترجمة للغة العربية. تمت تجربته بكفاءة على متصفحَي جنوم وب (Epiphany) وEolie.
 
 ![لقطة شاشة من 2022-01-28 17-59-04](https://user-images.githubusercontent.com/89610703/151589606-43d3bb12-a3ad-46fe-941a-25967256017d.png)
 
